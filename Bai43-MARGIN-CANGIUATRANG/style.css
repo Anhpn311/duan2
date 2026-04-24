@@ -1,0 +1,15 @@
+body {
+  background-color: pink;
+}
+.container h1 {
+  font-size: 40px;
+}
+.container p {
+  font-size: 18px;
+  line-height: 1.4;
+}
+.container {
+  margin: 0 auto;
+  width: 700px;
+  text-align: center;
+}

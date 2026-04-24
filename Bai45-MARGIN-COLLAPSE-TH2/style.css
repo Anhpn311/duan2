@@ -1,0 +1,14 @@
+.box_parent {
+  height: 300px;
+  background-color: blanchedalmond;
+  margin-top: 70px;
+}
+.box_child {
+  background-color: peru;
+  width: 50%;
+  margin-top: 30px;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}

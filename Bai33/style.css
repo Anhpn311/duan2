@@ -1,0 +1,31 @@
+/* 1. Tác dụng lên selector khi di chuột qua 
+.di_chuot:hover {
+  color: red;
+  font-size: 30px;
+} */
+
+/* 2. Tác dụng lên selector khi nhấn giữ chuột
+ .di_chuot:hover {
+  color: red;
+  font-size: 30px;
+} */
+/* 
+3.Click vào khi chưa truy cập 
+.click_me:link {
+  color: red;
+  font-size: 30px;
+} */
+
+/*4. Click vào khi đã truy cập 
+.click_me:visited {
+  color: chocolate;
+  font-size: 40px;
+} */
+.div_elm:empty {
+  width: 200px;
+  height: 200px;
+  background-color: violet;
+}
+h2:target {
+  color: seagreen;
+}

@@ -1,0 +1,19 @@
+/* .box {
+  background-color: palevioletred;
+  width: 50%;
+}
+.box_child {
+  background-color: peru;
+  width: 50%;
+}
+
+body {
+  background-color: antiquewhite;
+} */
+.parent {
+  font-size: 60px;
+}
+
+.line1 {
+  font-size: 40%;
+}

@@ -1,0 +1,12 @@
+body {
+  font-family: "Inter", sans-serif;
+}
+p {
+  font-weight: 400;
+  line-height: 1.5;
+}
+h1 {
+  background-color: plum;
+  height: 100px;
+  line-height: 100px;
+}

@@ -1,0 +1,10 @@
+strong {
+  text-decoration: underline;
+  text-decoration: line-through;
+}
+.line {
+  text-indent: 40px;
+  text-transform: uppercase;
+  text-transform: capitalize;
+  text-transform: lowercase;
+}

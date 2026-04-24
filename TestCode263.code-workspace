@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../Github/Noblelogin"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "TestCode263"
+  }
+}

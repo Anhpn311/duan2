@@ -1,0 +1,24 @@
+/* div {
+  width: 200px;
+  height: 100px;
+  border: 10px solid palevioletred;
+  margin-left: -8px;
+  margin-bottom: 30px;
+} */
+
+.ava {
+  width: 200px;
+  border-radius: 50%;
+  border: 5px solid palevioletred;
+  margin-left: -70px;
+}
+
+img:first-child {
+  margin-left: 0px;
+}
+
+.content {
+  background-color: pink;
+  padding: 20px;
+  border-radius: 12px;
+}

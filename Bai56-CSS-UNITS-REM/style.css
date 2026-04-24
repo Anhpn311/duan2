@@ -1,0 +1,14 @@
+.parent {
+  font-size: 10px;
+}
+html {
+  font-size: 10px;
+}
+.child {
+  font-size: 2rem;
+  background-color: burlywood;
+  width: 3rem;
+  height: 3rem;
+  border: 0.2rem solid palevioletred;
+  margin: 1rem;
+}
